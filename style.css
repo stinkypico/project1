@@ -6,6 +6,8 @@ body{
     width: 100%;
     height: 100%;
     display: flex;
+    background-image: url('background.png');
+    background-repeat: repeat;
 }
 .boxes{
     width: 250px;
